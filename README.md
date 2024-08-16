@@ -61,7 +61,7 @@ Our vision is to **digitize solutions to problems** by leveraging **innovative t
 
 ## Contact Us
 
-**Email:** [info@veldraenterprise.com](mailto:info@veldraenterprise.com)  
+**Email:** [info@veldraenterprise.com](mailto:veldraenterprise@gmail.com)  
 **Address:** `Yaoundé, Cameroon`  
 
 Feel free to reach out to us for any inquiries, collaborations, or project proposals. We’re here to help you find the **digital solution** that’s right for you.
