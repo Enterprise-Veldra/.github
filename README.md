@@ -1,7 +1,7 @@
 # Veldra Enterprise
 
-**Welcome to `Veldra Enterprise`!**
 
+**Welcome to `Veldra Enterprise`!**
 At `Veldra Enterprise`, we are dedicated to delivering **cutting-edge digital solutions** to everyday challenges. We specialize in `web`, `mobile`, and `PC development`, with a strong focus on integrating `Artificial Intelligence (AI)` into our products. Whether you're looking for **custom websites**, **mobile apps**, or **AI-driven innovations**, Veldra has the solution.
 
 **Slogan:** *`Veldra, a digital solution to your daily challenges.`*
@@ -62,9 +62,7 @@ Our vision is to **digitize solutions to problems** by leveraging **innovative t
 ## Contact Us
 
 **Email:** [info@veldraenterprise.com](mailto:info@veldraenterprise.com)  
-**Phone:** +237 620 86 47 61  
 **Address:** `Yaoundé, Cameroon`  
-**Website:** [www.veldraenterprise.com](www.veldraenterprise.com)
 
 Feel free to reach out to us for any inquiries, collaborations, or project proposals. We’re here to help you find the **digital solution** that’s right for you.
 
