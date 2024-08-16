@@ -14,9 +14,9 @@ At `Veldra Enterprise`, we are dedicated to delivering **cutting-edge digital so
 
 **Location:** `Yaoundé, Cameroon`  
 
-**Industry:** `Technology`, `Software Development`, `Artificial Intelligence`
+**Industry:** `Technology`, `Software Development`, `AI`
 
-`Veldra Enterprise` is a startup committed to **transforming the digital landscape** by providing **top-tier solutions** in `web development`, `mobile` and `PC applications`, and `artificial intelligence`. Our goal is to **empower businesses** and individuals with the tools they need to **thrive in the digital age**.
+`Veldra Enterprise` is a startup committed to **transforming the digital landscape** by providing **top-tier solutions** in `web development`, `mobile` and `PC applications`, and `AI`. Our goal is to **empower businesses** and individuals with the tools they need to **thrive in the digital age**.
 
 ## Vision
 
@@ -48,7 +48,7 @@ Our vision is to **digitize solutions to problems** by leveraging **innovative t
    - **Desktop applications** for various industries.
    - **Software solutions** that boost productivity and streamline operations.
 
-**4. Artificial Intelligence:**
+**4. AI:**
    - **AI-driven solutions** to automate tasks and improve decision-making.
    - **Machine learning models** tailored to your specific needs.
 
@@ -62,9 +62,7 @@ Our vision is to **digitize solutions to problems** by leveraging **innovative t
 ## Contact Us
 
 **Email:** [info@veldraenterprise.com](mailto:info@veldraenterprise.com)  
-**Phone:** +237 620 86 47 61  
-**Address:** `Yaoundé, Cameroon`  
-**Website:** [www.veldraenterprise.com](www.veldraenterprise.com)
+**Address:** `Yaoundé, Cameroon`
 
 Feel free to reach out to us for any inquiries, collaborations, or project proposals. We’re here to help you find the **digital solution** that’s right for you.
 
